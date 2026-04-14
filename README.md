@@ -1,17 +1,5 @@
 # PolicyPulse Insurance Premium & Payout — Power BI Dashboard
 
-
----
-
-## Table of Contents
-
-- [Project Overview](#-project-overview)
-- [Dashboard Pages](#-dashboard-pages)
-- [Data Model](#-data-model)
-- [Key Insights](#-key-insights)
-- [Tech Stack](#-tech-stack)
-- [File Structure](#-file-structure)
-
 ---
 
 ## Project Overview
