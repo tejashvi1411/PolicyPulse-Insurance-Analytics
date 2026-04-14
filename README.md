@@ -1,7 +1,5 @@
 # PolicyPulse Insurance Premium & Payout — Power BI Dashboard
 
-> An interactive Power BI dashboard for an insurance company, analyzing **premium collections, policyholder demographics, investment returns, claims, and sales performance** — all in one place.
-
 
 ---
 
@@ -13,15 +11,15 @@
 - [Key Insights](#-key-insights)
 - [Tech Stack](#-tech-stack)
 - [File Structure](#-file-structure)
-- [Getting Started](#-getting-started)
-- [What's Next](#-whats-next)
-- [Author](#-author)
 
 ---
 
 ## Project Overview
 
-The **PolicyPulse Dashboard** provides a 360° analytical view of an insurance company's performance. It is built to support business leaders, financial teams, and analysts in making **data-driven decisions** by surfacing KPIs across premiums, payouts, investments, and the sales hierarchy.
+Insurance companies sit on massive amounts of data — but raw numbers alone don't tell a story. This dashboard was built to bridge that gap.
+
+Using **Power BI and Excel**, I modeled a full insurance dataset covering policy transactions, customer demographics, agent hierarchies, and investment plans. The result is a multi-page interactive report that lets decision-makers drill into the metrics that matter most — without needing to touch a spreadsheet.
+
 
 ### KPIs Tracked
 
