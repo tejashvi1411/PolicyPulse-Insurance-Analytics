@@ -1,11 +1,11 @@
-# 📊 PolicyPulse Insurance Premium & Payout — Power BI Dashboard
+# PolicyPulse Insurance Premium & Payout — Power BI Dashboard
 
 > An interactive Power BI dashboard for an insurance company, analyzing **premium collections, policyholder demographics, investment returns, claims, and sales performance** — all in one place.
 
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Dashboard Pages](#-dashboard-pages)
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧭 Project Overview
+## Project Overview
 
 The **PolicyPulse Dashboard** provides a 360° analytical view of an insurance company's performance. It is built to support business leaders, financial teams, and analysts in making **data-driven decisions** by surfacing KPIs across premiums, payouts, investments, and the sales hierarchy.
 
@@ -27,17 +27,17 @@ The **PolicyPulse Dashboard** provides a 360° analytical view of an insurance c
 
 | KPI | Description |
 |-----|-------------|
-| 💰 Total Premium Collected | Aggregate premiums across all active policies |
-| 📋 Policy Count by Category | Breakdown of policy volume by type |
-| 📤 Payout & Claim Ratio | Claims vs. total premium to assess payout exposure |
-| 📈 Investment vs. Maturity Returns | Fund performance relative to maturity obligations |
-| 🛡️ Annual Premium vs. Protection Value | Coverage adequacy relative to policyholder payments |
-| 🏆 Sales Performance by Hierarchy | Agent → Regional → Zonal performance drill-down |
-| 👤 Policyholder Demographics | Age, gender, and location segmentation |
+|  Total Premium Collected | Aggregate premiums across all active policies |
+|  Policy Count by Category | Breakdown of policy volume by type |
+|  Payout & Claim Ratio | Claims vs. total premium to assess payout exposure |
+|  Investment vs. Maturity Returns | Fund performance relative to maturity obligations |
+|  Annual Premium vs. Protection Value | Coverage adequacy relative to policyholder payments |
+|  Sales Performance by Hierarchy | Agent → Regional → Zonal performance drill-down |
+|  Policyholder Demographics | Age, gender, and location segmentation |
 
 ---
 
-## 🖥️ Dashboard Pages
+##  Dashboard Pages
 
 ### 1. Insurance Overview
 High-level executive summary showing total premium, active policy count, payout ratio, and claims overview at a glance.
@@ -137,8 +137,8 @@ Aggregate payout ratios mask risk concentration. Health, life, and motor policie
 ---
 
 ## File Structure
-📦 Insurance-Premium-Payout-Power-BI-Project
-┣ 📊 Tru Secure CreDebit Dashboard.pbix   ← Main Power BI file
+ Insurance-Premium-Payout-Power-BI-Project
+┣  PolicyPulse Dashboard.pbix   ← Main Power BI file
 ┣ 📄 FCT.Insurance_Policy_Table.csv        ← Fact table
 ┣ 📄 DM.Customer_Detail_Table.csv
 ┣ 📄 DM.Insurance_Agent_Table.csv
@@ -150,7 +150,7 @@ Aggregate payout ratios mask risk concentration. Health, life, and motor policie
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning & Transformation (Power Query / M)
 - Star Schema Data Modeling & Relationships
