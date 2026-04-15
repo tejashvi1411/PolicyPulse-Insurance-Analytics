@@ -28,41 +28,34 @@ Using **Power BI and Excel**, I modeled a full insurance dataset covering policy
 ### 1. Insurance Overview
 High-level executive summary showing total premium, active policy count, payout ratio, and claims overview at a glance.
 
-
+![Dashboard](https://github.com/tejashvi1411/PolicyPulse-Insurance-Analytics/blob/main/dashboard%20png/1%20(1).png)
 ---
 
 ### 2. Insurance Summary (Policyholder Details)
 Customer segmentation by **gender**, **age group**, and **geographic location** — answering *"Who are our customers and where are they?"*
 
-
+![Dashboard](https://github.com/tejashvi1411/PolicyPulse-Insurance-Analytics/blob/main/dashboard%20png/1%20(2).png)
 
 ---
 
 ### 3. Investment vs. Maturity
 Side-by-side comparison of invested capital against maturity payout amounts — surfacing fund utilization efficiency across plans and policy types.
 
-
+![Dashboard](https://github.com/tejashvi1411/PolicyPulse-Insurance-Analytics/blob/main/dashboard%20png/1%20(3).png)
 ---
 
 ### 4. Annual Premium vs. Protection Value
 Evaluates whether customers receive proportionate protection value relative to the premiums they pay — critical for pricing strategy and product design decisions.
 
-
+![Dashboard](https://github.com/tejashvi1411/PolicyPulse-Insurance-Analytics/blob/main/dashboard%20png/1%20(4).png)
 ---
 
-### 5. Premium Analysis
-Trend analysis of premium collections over time, across regions and policy types — used for **forecasting** and identifying growth patterns or seasonal dips.
-
-
-
----
-
-### 6. Sales Hierarchy (Chart & Matrix Views)
+###  5. Managerial Hierarchy
 Dual-view of the sales organization's performance:
-- **Chart View** — visual breakdown of Zonal → Regional → Agent performance
-- **Matrix View** — drill-down table with precise numbers at each level
+**Chart View** — visual breakdown of Zonal → Regional → Agent performance 
 
 
+![Dashboard](https://github.com/tejashvi1411/PolicyPulse-Insurance-Analytics/blob/main/dashboard%20png/1%20(5).png)
 
 ---
 
